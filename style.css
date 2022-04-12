@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+section{
+    position: relative;
+    background-image: url(pexels-andy-vu-3244513.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    font-family: 'Abel', sans-serif;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background:linear-gradient(rgba(0,0,0,0.3) rgba(0,0,0,0.2));
+    width: 380px;
+    padding: 50px 30px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 50px #000 ;
+}
+
+.container h1{
+    font-size: 2em;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.conteudo input{
+    width: 100%;
+    display: block;
+    padding: 10px;
+    color: #222;
+    border: none;
+    outline: none;
+    margin: 0.5em 0;
+    opacity: .9;
+    transition:  opacity .3s ease;
+}
+
+.conteudo input:hover{
+    opacity: .5;
+}
+
+.conteudo label{
+    font-size: 1em;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+span input[type="checkbox"]{
+    margin-right: 5px;
+}
+
+span{
+    color: white;
+    font-size: 1em;
+}
+
+.conteudo input[type="submit"]{
+    background-color: #BF9484;
+    color: rgba(255, 255, 255, 0.842);
+    text-transform: uppercase;
+    font-size: 1em;
+    opacity: .8;
+    transition: opacity .3s ease;
+}
+
+.conteudo input[type="submit"]:hover{
+    opacity: 1;
+}
+
+.link{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link a{
+    color: white;
+    text-decoration: none;
+    opacity: .8;
+    transition: opacity .3s ease;
+}
+
+.link a:hover{
+    opacity: 1;
+    font-size: 1.2em;
+    transition: .3s ease;
+}
