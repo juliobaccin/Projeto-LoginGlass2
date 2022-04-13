@@ -11,12 +11,11 @@ Projeto - Tela de Login Transparente 2
  você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Tela-de-Login-Transparente-2/">aqui</a>
 </p>
 
-<h3 align="center"> 
+<div align="center">
+<h3> 
  Apresentação do Site
 </h3>
-<p align="center"><img src="https://github.com/juliobaccin/Projeto-Tela-de-Login-Transparente-2/blob/main/Site.gif"></p>
-
-<div align="center">
+<img src="https://github.com/juliobaccin/Projeto-Tela-de-Login-Transparente-2/blob/main/Site.gif">
 <h3>
   Responsividade
  </h3> 
