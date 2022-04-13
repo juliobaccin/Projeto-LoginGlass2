@@ -13,10 +13,6 @@ Projeto - Tela de Login Transparente 2
 
 <div align="center">
 <h3>
- Apresentação do Site
-</h3>    
-<img src="https://github.com/juliobaccin/Projeto-Tela-de-Login-Transparente-2/blob/main/Site.gif">
- <h3>
   Responsividade
  </h3> 
 <img src="https://github.com/juliobaccin/Projeto-Tela-de-Login-Transparente-2/blob/main/responsividade.gif">
