@@ -93,7 +93,7 @@ span{
 .link a{
     color: white;
     text-decoration: none;
-    opacity: .8;
+    opacity: .5;
     transition: opacity .3s ease;
 }
 
