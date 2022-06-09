@@ -8,7 +8,7 @@ Projeto - Tela de Login Transparente 2
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Tela-de-Login-Transparente-2/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-LoginGlass2/">aqui</a>
 </p>
 
 <div align="center">
